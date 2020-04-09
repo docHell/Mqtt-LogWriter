@@ -1,0 +1,8 @@
+{
+    "working_dir" : "/media/carnauser/Volume/InformaticaAmbientale/tmp/",
+    "topic" : "DEOPCall",
+    "express_port" : 3000,
+    "mqtt_broker_address": "ws://167.86.108.163:81",
+    "mqtt_client_id" : "logWriter"
+
+}
